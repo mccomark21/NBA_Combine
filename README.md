@@ -1,4 +1,4 @@
-# NBA-Combine-Analysis
+# NBA Combine Analysis
 
 ## Description
 
